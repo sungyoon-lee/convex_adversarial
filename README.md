@@ -1,5 +1,7 @@
 # Provably robust neural networks
 
+*본 repository는 https://github.com/locuslab/convex_adversarial 를 바탕으로 만들어졌으며, example 폴더에 ipynb 파일만 수정하였음.
+
 *A repository for training provably robust neural networks by optimizing convex outer bounds on the adversarial polytope. Created by [Eric Wong](https://riceric22.github.io) and [Zico Kolter](http://zicokolter.com). [Link to the original arXiv paper][paper]. The method has been further extended to be fully modular, scalable, and use cascades to improve robust error. Check out our new paper on arXiv: [Scaling provable adversarial defenses][scalable_paper].*
 
 [paper]: https://arxiv.org/abs/1711.00851
