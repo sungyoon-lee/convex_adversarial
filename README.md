@@ -2,7 +2,7 @@
 
 This repository is forked from https://github.com/locuslab/convex_adversarial
 
-Only slight change is made on some files in convex_adversarial/example.
+Only slight changes are made on some files in convex_adversarial/example.
 
 - 2D.ipynb: toy 2D data experiments
 - MNIST-normal.ipynb: normal training results on MNIST; comparison of computational time with robust training
