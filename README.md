@@ -1,6 +1,6 @@
 # Provably robust neural networks
 
-This repository is copied from https://github.com/locuslab/convex_adversarial
+This repository is forked from https://github.com/locuslab/convex_adversarial
 Only slight change is made on some files in convex_adversarial/example.
 
 - 2D.ipynb: toy 2D data experiments
