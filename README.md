@@ -1,4 +1,4 @@
-# Provably robust neural networks
+# Disclaimer
 
 This repository is forked from https://github.com/locuslab/convex_adversarial
 
@@ -8,6 +8,8 @@ Only slight changes are made on some files in convex_adversarial/example.
 - MNIST-normal.ipynb: normal training results on MNIST; comparison of computational time with robust training
 - MNIST-robust.ipynb: robust training results on MNIST
 - ppt, pdf: summary of the paper in Korean
+
+# Provably robust neural networks
 
 *A repository for training provably robust neural networks by optimizing convex outer bounds on the adversarial polytope. Created by [Eric Wong](https://riceric22.github.io) and [Zico Kolter](http://zicokolter.com). [Link to the original arXiv paper][paper]. The method has been further extended to be fully modular, scalable, and use cascades to improve robust error. Check out our new paper on arXiv: [Scaling provable adversarial defenses][scalable_paper].*
 
